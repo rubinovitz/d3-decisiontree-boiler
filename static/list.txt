@@ -1,0 +1,34 @@
+User chooses at least one engine (I-III) and then fills in their predictions (defaults to 0 if unfilled)
+I. Stick Engine
+	a. Google Analytics
+		desired increases for
+		1. new users vs time
+		2. returning users vs time
+		3. avg time user spent on site
+	b. Funnel
+		1. input the endpoint(s) of the feature so we can track funnel to it
+
+II. Virality Engine
+	a. Twitter
+		1. Mention score present increase
+	b. Facebook
+		1. % increase of posts on page that are not admin
+		2. percent shares +
+		3. percent likes +
+
+III. Paid engine
+	a. Quickbooks or Stripe
+		a. purchase increase
+		b. purchase of specific item increase
+
+
+
+
+
+
+
+
+
+
+
+
